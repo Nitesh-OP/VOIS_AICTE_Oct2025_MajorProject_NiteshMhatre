@@ -26,7 +26,7 @@ This helps in understanding how Netflix content has evolved over time.
 ## 🚀 How to Run the Notebook
 1. Download or clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Nitesh-OP/VOIS_AICTE_Oct2025_MajorProject_NiteshMhatre/tree/main
 Open the Jupyter Notebook:
 
 bash
